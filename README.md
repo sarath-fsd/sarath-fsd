@@ -11,7 +11,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 🚀 &nbsp; I’m working as Technical Lead and Full Stack Developer in <b>Wittybrains Software Techonologies Pvt Ltd</b>.
+- 🚀 &nbsp; I’m working as Technical Lead and Full Stack Developer in <b>Wittybrains Software Technologies Private Limited</b>.
 - 🛠 &nbsp; I’m currently working with React, Nodejs, Angular, Postgres, Mongodb, Typescript, Javascript, Dockerization, AWS Lambda and SQS etc.
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/sarathkammari)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
